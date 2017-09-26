@@ -6,7 +6,9 @@ public class JavaProjekti {
 
 
     public static void main(String[] args) {
-
+      if (näpystely <= krisun omaLompsa) {
+      System.out.println("Lopeta senkin cocknibbleri");
+      
     }
     
 }
